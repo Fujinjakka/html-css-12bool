@@ -1,0 +1,15 @@
+[class*="col-"] {
+  background-color: pink;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 150px;
+}
+
+.col-small {
+  background-color: lightcoral;
+  border-color: white;
+}
+
+.nested {
+  padding: 10px;
+}
